@@ -2,7 +2,6 @@ name: CI
 
 on:
   #
-  #
   # Runs tests against the microservice on push to the main branch of this code repository.
   #
   push: 
